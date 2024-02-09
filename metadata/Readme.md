@@ -1,4 +1,4 @@
-METADATA DESCRIPTION:
+# METADATA DESCRIPTION:
 
 **Balancing Authority:** The organization responsible for maintaining the electricity balance within its region.
 
