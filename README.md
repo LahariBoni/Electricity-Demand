@@ -1,2 +1,2 @@
-# Electricity-Demand
-MLOps Project
+# Forecasting Electricity Demand in the US
+Our project is focused on advancing the accuracy and reliability of short-term electricity demand forecasts. The ability to predict power needs is crucial for grid stability and efficient energy resource management. By applying cutting-edge analytical techniques and predictive modeling, we aim to provide insights enabling energy providers and policymakers to make informed decisions, ultimately leading to enhanced operational efficiency and a more sustainable energy landscape. The outcome of this project is expected to not only streamline energy distribution but also support the integration of renewable energy sources by anticipating fluctuations in electricity demand.
